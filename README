@@ -1,0 +1,7 @@
+Pour le moment il faut une fois dans le dossier todd.tavernier:
+-écrire la commande make all, 
+-puis écrire la commande ./main pour tester la segmentation sur la première image
+-ou écrire ./main "images/my_imageX.jpg" avec X le numéro de l'image choisi pour tester le pretraitement
+Une image vous sera donnée, appuyer sur une touche pour voir le résultat,
+et re-appuyer sur une touche pour fermer la fenêtre.
+
